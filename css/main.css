@@ -4,13 +4,13 @@
   float: left;
 }
 
-.in {
+.rowin {
   padding: 3px;
 }
 
 .inrow {
   background-color: blue;
   height: 100%;
-  padding: 3px;
   border: 1px solid white;
+
 }
