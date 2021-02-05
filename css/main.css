@@ -1,12 +1,16 @@
 .row {
   background-color: red;
-  width: 50%;
+  width: 100%;
   float: left;
+}
 
+.in {
+  padding: 3px;
 }
 
 .inrow {
-  
   background-color: blue;
   height: 100%;
+  padding: 3px;
+  border: 1px solid white;
 }
