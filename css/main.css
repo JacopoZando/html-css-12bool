@@ -1,8 +1,12 @@
 .row {
-  
+  background-color: red;
+  width: 50%;
+  float: left;
+
 }
 
 .inrow {
+  
   background-color: blue;
   height: 100%;
 }
